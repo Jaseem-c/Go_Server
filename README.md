@@ -41,14 +41,14 @@ This project is a simple GO Api server,designed to understand basic of building 
 ## How to Run the Project
 
 ### 1. clone Repository
-  - git clone <repository-url>
-  - cd <respository-directory>
+  - git clone `repository-url`
+  - cd `respository-directory`
 ### 2. Run the server
   - go run main.go
 ### 3. Access the Application
   - visit `http://localhost:8080/api` for the API response.
 
-## Key Concept Demonstrated
+## Key Concepts
  - Struct
  - HTTP server creation
  - Route handlers
